@@ -12,4 +12,8 @@ print(my_set)
 e2 = (25,1.35)
 my_set.update(e2)
 print(my_set)
+print(my_set.discard(5))
+print(my_set)
+
+
 
